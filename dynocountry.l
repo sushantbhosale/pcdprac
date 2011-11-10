@@ -20,6 +20,9 @@ void add_country(int,char*);
 int lookup_country(char*);
 	/*
 		This is a program to accept the country and continent names dynamically.
+
+		@@Author : Sushant Bhosale <sushantbhosale91@gmail.com>
+
 	*/
 
 %}
